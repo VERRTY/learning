@@ -1,0 +1,14 @@
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\4 задание\4.1\4.1\bin\Debug\netcoreapp3.1\4.1.exe
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\4 задание\4.1\4.1\bin\Debug\netcoreapp3.1\4.1.deps.json
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\4 задание\4.1\4.1\bin\Debug\netcoreapp3.1\4.1.runtimeconfig.json
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\4 задание\4.1\4.1\bin\Debug\netcoreapp3.1\4.1.runtimeconfig.dev.json
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\4 задание\4.1\4.1\bin\Debug\netcoreapp3.1\4.1.dll
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\4 задание\4.1\4.1\bin\Debug\netcoreapp3.1\4.1.pdb
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\4 задание\4.1\4.1\obj\Debug\netcoreapp3.1\4.1.GeneratedMSBuildEditorConfig.editorconfig
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\4 задание\4.1\4.1\obj\Debug\netcoreapp3.1\4.1.AssemblyInfoInputs.cache
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\4 задание\4.1\4.1\obj\Debug\netcoreapp3.1\4.1.AssemblyInfo.cs
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\4 задание\4.1\4.1\obj\Debug\netcoreapp3.1\4.1.csproj.CoreCompileInputs.cache
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\4 задание\4.1\4.1\obj\Debug\netcoreapp3.1\4.1.dll
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\4 задание\4.1\4.1\obj\Debug\netcoreapp3.1\4.1.pdb
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\4 задание\4.1\4.1\obj\Debug\netcoreapp3.1\4.1.genruntimeconfig.cache
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\4 задание\4.1\4.1\obj\Debug\netcoreapp3.1\4.1.csproj.AssemblyReference.cache

@@ -1,0 +1,28 @@
+D:\Филатов Антон ЕПИ-3-20\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Филатов Антон ЕПИ-3-20\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Филатов Антон ЕПИ-3-20\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Филатов Антон ЕПИ-3-20\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Филатов Антон ЕПИ-3-20\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Филатов Антон ЕПИ-3-20\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Филатов Антон ЕПИ-3-20\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Филатов Антон ЕПИ-3-20\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Филатов Антон ЕПИ-3-20\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Филатов Антон ЕПИ-3-20\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Филатов Антон ЕПИ-3-20\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Филатов Антон ЕПИ-3-20\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Филатов Антон ЕПИ-3-20\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Филатов Антон ЕПИ-3-20\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

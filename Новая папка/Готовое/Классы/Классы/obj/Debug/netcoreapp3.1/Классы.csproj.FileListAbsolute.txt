@@ -1,0 +1,27 @@
+C:\Users\anton\Desktop\КРСУ\ООП\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.csproj.AssemblyReference.cache
+C:\Users\anton\Desktop\КРСУ\ООП\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.AssemblyInfoInputs.cache
+C:\Users\anton\Desktop\КРСУ\ООП\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.AssemblyInfo.cs
+C:\Users\anton\Desktop\КРСУ\ООП\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\КРСУ\ООП\Классы\Классы\bin\Debug\netcoreapp3.1\Классы.exe
+C:\Users\anton\Desktop\КРСУ\ООП\Классы\Классы\bin\Debug\netcoreapp3.1\Классы.deps.json
+C:\Users\anton\Desktop\КРСУ\ООП\Классы\Классы\bin\Debug\netcoreapp3.1\Классы.runtimeconfig.json
+C:\Users\anton\Desktop\КРСУ\ООП\Классы\Классы\bin\Debug\netcoreapp3.1\Классы.runtimeconfig.dev.json
+C:\Users\anton\Desktop\КРСУ\ООП\Классы\Классы\bin\Debug\netcoreapp3.1\Классы.dll
+C:\Users\anton\Desktop\КРСУ\ООП\Классы\Классы\bin\Debug\netcoreapp3.1\Классы.pdb
+C:\Users\anton\Desktop\КРСУ\ООП\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.dll
+C:\Users\anton\Desktop\КРСУ\ООП\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.pdb
+C:\Users\anton\Desktop\КРСУ\ООП\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.genruntimeconfig.cache
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\Классы\Классы\Классы\bin\Debug\netcoreapp3.1\Классы.exe
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\Классы\Классы\Классы\bin\Debug\netcoreapp3.1\Классы.deps.json
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\Классы\Классы\Классы\bin\Debug\netcoreapp3.1\Классы.runtimeconfig.json
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\Классы\Классы\Классы\bin\Debug\netcoreapp3.1\Классы.runtimeconfig.dev.json
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\Классы\Классы\Классы\bin\Debug\netcoreapp3.1\Классы.dll
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\Классы\Классы\Классы\bin\Debug\netcoreapp3.1\Классы.pdb
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\Классы\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.csproj.AssemblyReference.cache
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\Классы\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.GeneratedMSBuildEditorConfig.editorconfig
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\Классы\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.AssemblyInfoInputs.cache
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\Классы\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.AssemblyInfo.cs
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\Классы\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.csproj.CoreCompileInputs.cache
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\Классы\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.dll
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\Классы\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.pdb
+F:\КРСУ\4-й семестр\ООП\Филатов Антон ЕПИ-3-20\Классы\Классы\Классы\obj\Debug\netcoreapp3.1\Классы.genruntimeconfig.cache

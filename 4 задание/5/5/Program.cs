@@ -9,6 +9,7 @@ namespace _5
     }
     class Currency_exchange : Transfer
     {
+        int rate { get; set; }
         public override void trans()
         {
             Console.WriteLine("Обмен волют");
@@ -18,12 +19,49 @@ namespace _5
             Console.WriteLine("Выполнено");
         }
     }
-    
-    internal class Program
+    sealed class operatione : Transfer
     {
-        static void Main(string[] args)
+        int balance { get; set; }
+        public void debit()
         {
-        
+            Console.WriteLine("Списание средств");
+        }
+        public override void trans()
+        {
+            Console.WriteLine("Списание средств");
         }
     }
+
+    class pay : Transfer
+    {
+        int duty { get; set; }
+        public void printStatus()
+        {
+            Console.WriteLine("Выполнено");
+        }
+        public override void trans()
+        {
+            Console.WriteLine("Платеж");
+        }
+    }
+
+    class garbage_payment : Transfer
+    {
+        int pay { get; set; }
+        public void printStatus()
+        {
+            Console.WriteLine("Выполнено");
+        }
+        public override void trans()
+        {
+            Console.WriteLine("Платеж за мусор");
+        }
+    }
+    internal class Program
+        {
+            static void Main(string[] args)
+            {
+        
+            }
+        }
 }
